@@ -1,0 +1,27 @@
+/* body{
+    background: blue;
+} */
+
+/* #dropdownMenuButton{
+    color: white;
+    background-color: green;
+} */
+
+img{
+    /* margin-bottom: 15px;
+    margin-top: 15px; */
+}
+
+#re , #we {
+    display: flex;
+    justify-content: center;
+}
+
+#re p, #we p{
+    text-align: left;
+    /* text-align: right; */
+}
+
+..nav-item{
+    background-color: red;
+}
